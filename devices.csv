@@ -1,0 +1,5 @@
+device_type,ip,sshport,username,password,secret,timeout,conn_timeout,read_timeout_override
+huawei,192.168.249.150,22,admin,Password1234,Password1234,300,20,300
+huawei,192.168.249.150,22,admin,Password1234,Password1234,300,20,300
+huawei,192.168.249.150,22,admin,Password1234,Password1234,300,20,300
+huawei,192.168.249.150,22,admin,Password1234,Password1234,300,20,300

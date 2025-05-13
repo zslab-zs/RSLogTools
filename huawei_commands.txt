@@ -1,0 +1,20 @@
+    q
+    screen-length 0 temporary 
+    display esn
+    display clock
+    display cur
+    display version
+    display patch
+    display stack topology
+    display ip int brief
+    display int brief
+    display vlan sum
+    display cpu
+    display memory
+    display alarm active
+    display alarm histroy
+    display device 
+    display logbuffer
+    display trapbuffer
+    display clock
+    

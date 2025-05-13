@@ -1,0 +1,1 @@
+pyinstaller.exe --onefile --icon=cat.ico main_controller.py
