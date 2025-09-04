@@ -36,7 +36,7 @@ RSLogTools/
 python main_controller.py
 ```
 
-详见：https://blog.zslab.cn/content/tag/rslogtools/
+详见：[https://blog.zslab.cn/content/tag/rslogtools/](https://blog.misausr.top/RSLogTools/)
 
 ## 菜单选项
 
